@@ -23,4 +23,4 @@
 
 
 
-<span align="right"> <img src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Base%20Images/code.gif?raw=true" alt="undo.gif" width="550" /></span>
+<span align="right"> <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif" alt="undo.gif" width="550" /></span>
