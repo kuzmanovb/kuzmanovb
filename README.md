@@ -1,6 +1,7 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Hi, I'm Boyan Kuzmanov
+----------------
 <a href="https://www.facebook.com/kuzmanovb">
   <img align="left" alt="Boyan's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
@@ -8,7 +9,7 @@
   <img align="left" alt="Boyan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
-
+-----------------
 **Languages and Tools:**
 <img align="left" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/C-Sharp%20Icon.png?raw=true" width="70" height="70" />
 <img align="left" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/NET%20Core%20Icon.png?raw=true" width="70" height="70" />
