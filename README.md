@@ -10,7 +10,7 @@
   <img align="left" alt="Boyan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="70"/>
 </a>
   </br>
-*****
+* * *
 <p align="left">
    Languages and Tools:
 </p>
