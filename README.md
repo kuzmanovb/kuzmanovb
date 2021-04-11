@@ -27,8 +27,8 @@
     📈 My GitHub Stats
 </p>
  <span align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=kuzmanovb" alt="tracker" width="500">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuzmanovb" alt="streak" width="500">
+    <img src="https://github-readme-stats.vercel.app/api?username=kuzmanovb" alt="tracker" width="300">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuzmanovb" alt="streak" width="300">
   </span>
 <span align="right"> 
   <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif" alt="undo.gif" width="1000"height="300" />
