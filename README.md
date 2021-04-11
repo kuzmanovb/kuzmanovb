@@ -22,6 +22,7 @@
 <img align="left" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/ReactJS%20Logo.png?raw=true" width="70" height="70" />
 
 <br/></br></br>
+-----------------
 📈 My GitHub Stats
  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=kuzmanovb" alt="tracker">
