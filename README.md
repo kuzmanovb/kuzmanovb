@@ -31,5 +31,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuzmanovb" alt="streak" width="400">
   </span>
 <span align="right"> 
- <img src="https://i.pinimg.com/originals/64/b0/d7/64b0d74e3ab4a3c0ab0076db8e7565f5.gif" alt="undo.gif" width="800"height="300" />
+ <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300" alt="undo.gif" width="800"height="300" />
 </span>
