@@ -30,5 +30,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kuzmanovb" alt="tracker">
   </span>
 <span align="right"> 
-  <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif" alt="undo.gif" width="550"/>
+  <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif" alt="undo.gif" width="300"/>
 </span>
