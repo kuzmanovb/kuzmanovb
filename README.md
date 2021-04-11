@@ -2,14 +2,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Hi, I'm Boyan Kuzmanov
 *****
-<p>
+
 <a href="https://www.facebook.com/kuzmanovb">
   <img align="left" alt="Boyan's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" width="70"/>
 </a>
 <a href="https://www.linkedin.com/in/boyan-kuzmanov-22382219a/">
   <img align="left" alt="Boyan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="70"/>
 </a>
-  </p>
+  </br>
 *****
 <p align="left">
    Languages and Tools:
