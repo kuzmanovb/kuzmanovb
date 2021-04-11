@@ -23,4 +23,4 @@
 <br /><br /><br />
 
 
-<span> <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif" alt="undo.gif" width="800" height="500" /></span>
+<span> <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif" alt="undo.gif" width="400" height="250" /></span>
