@@ -15,11 +15,11 @@
 Languages and Tools:
   </span>
   
-<img align="left" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/C-Sharp%20Icon.png?raw=true" width="70" height="70" />
-<img align="left" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/NET%20Core%20Icon.png?raw=true" width="70" height="70" />
-<img align="left" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/MsSQL%20Icon.png?raw=true" width="70" height="70" />
-<img align="left" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/JavaScript%20Icon.png?raw=true" width="70" height="70" />
-<img align="left" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/ReactJS%20Logo.png?raw=true" width="70" height="70" />
+<img align="right" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/C-Sharp%20Icon.png?raw=true" width="70" height="70" />
+<img align="right" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/NET%20Core%20Icon.png?raw=true" width="70" height="70" />
+<img align="right" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/MsSQL%20Icon.png?raw=true" width="70" height="70" />
+<img align="right" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/JavaScript%20Icon.png?raw=true" width="70" height="70" />
+<img align="right" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/ReactJS%20Logo.png?raw=true" width="70" height="70" />
   </span>
 
 <br/></br></br>
