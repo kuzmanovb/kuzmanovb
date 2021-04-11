@@ -2,6 +2,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Hi, I'm Boyan Kuzmanov
 ----------------
+</br>
 <a href="https://www.facebook.com/kuzmanovb">
   <img align="left" alt="Boyan's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
