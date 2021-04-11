@@ -23,10 +23,12 @@
 
 <br/></br></br>
 *****
-📈 My GitHub Stats
- <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=kuzmanovb" alt="tracker">
-  </p>
-<p align="right"> 
-  <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif" alt="undo.gif" width="550"/>
+<p>
+    📈 My GitHub Stats
 </p>
+ <span align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=kuzmanovb" alt="tracker">
+  </span>
+<span align="right"> 
+  <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif" alt="undo.gif" width="550"/>
+</span>
