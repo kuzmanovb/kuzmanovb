@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/boyan-kuzmanov-22382219a/">
   <img align="left" alt="Boyan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br />
+
 -----------------
 ##Languages and Tools:
 <img align="left" src="https://github.com/kuzmanovb/kuzmanovb/blob/main/Programming%20Languages/C-Sharp%20Icon.png?raw=true" width="70" height="70" />
