@@ -31,6 +31,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuzmanovb" alt="streak" width="400">
   </span>
 <span align="right"> 
-  
-   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="undo.gif" width="800"height="300" />
+ <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif" alt="undo.gif" width="800"height="300" />
 </span>
