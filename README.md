@@ -28,6 +28,7 @@
 </p>
  <span align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=kuzmanovb" alt="tracker">
+  </br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuzmanovb" alt="streak">
   </span>
 <span align="right"> 
