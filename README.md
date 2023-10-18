@@ -3,7 +3,7 @@
 ## Hi, I'm Boyan Kuzmanov 
 
 <a href="https://www.linkedin.com/in/boyan-kuzmanov-22382219a/">
-  <img align="left" alt="Boyan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="70"/>
+  <img align="left" alt="Boyan's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/50366388/276257584-2dda8510-4216-410e-8d91-8f7ed51d5e53.jpg" width="70"/>
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kuzmanovb)
