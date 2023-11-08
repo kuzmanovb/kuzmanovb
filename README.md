@@ -1,6 +1,6 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## Hi, I'm Boyan Kuzmanov 
+##  I'm Boyan Kuzmanov 
 
 <a href="https://www.linkedin.com/in/boyan-kuzmanov-22382219a/">
   <img align="left" alt="Boyan's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/50366388/276257584-2dda8510-4216-410e-8d91-8f7ed51d5e53.jpg" width="70"/>
